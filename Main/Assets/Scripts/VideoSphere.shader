@@ -6,7 +6,7 @@
 
 Shader "Unlit/FlippyShader" {
 Properties {
-    _MainTex ("Base (RGB)", 2D) = "black" {} // changed to black from white
+    _MainTex ("Base (RGB)", 2D) = "white" {}
 }
 
 SubShader {

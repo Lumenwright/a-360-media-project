@@ -18,6 +18,8 @@ This project was produced to partially fulfill the requirements of [Udacity](htt
 
 - 360 video provided by Udacity
 
+-Font: Book Antiqua
+
 ### Sounds:
 - "Windy Window.wav" by Pedaling Prince, licensed under a Creative Commons Attribution license. From https://freesound.org/people/Pedaling%20Prince/sounds/338952/
 - "Dry thunder2.wav" by juskiddink, licensed under a Creative Commons Attribution license. From https://freesound.org/people/juskiddink/sounds/101934/
